@@ -32,7 +32,7 @@ openpyxl==2.5.4
 Pillow==5.0.0
 protobuf==3.6.0
 pycparser==2.18
-Pygments==2.2.0
+Pygments==2.7.4
 PyMySQL==0.8.1
 pytz==2018.4
 PyYAML==3.12
